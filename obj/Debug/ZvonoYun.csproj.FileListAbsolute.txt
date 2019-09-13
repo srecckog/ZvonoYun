@@ -1,0 +1,11 @@
+C:\Users\jplaninic\Source\Repos\ZvonoYun\bin\Debug\ZvonoYun.exe.config
+C:\Users\jplaninic\Source\Repos\ZvonoYun\bin\Debug\ZvonoYun.exe
+C:\Users\jplaninic\Source\Repos\ZvonoYun\bin\Debug\ZvonoYun.pdb
+C:\Users\jplaninic\Source\Repos\ZvonoYun\obj\Debug\ZvonoYun.csprojAssemblyReference.cache
+C:\Users\jplaninic\Source\Repos\ZvonoYun\obj\Debug\ZvonoYun.csproj.CoreCompileInputs.cache
+C:\Users\jplaninic\Source\Repos\ZvonoYun\obj\Debug\ZvonoYun.exe
+C:\Users\jplaninic\Source\Repos\ZvonoYun\obj\Debug\ZvonoYun.pdb
+C:\Users\jplaninic\Source\Repos\ZvonoYun\bin\Debug\ZvonoYun.exe.manifest
+C:\Users\jplaninic\Source\Repos\ZvonoYun\bin\Debug\ZvonoYun.application
+C:\Users\jplaninic\Source\Repos\ZvonoYun\obj\Debug\ZvonoYun.exe.manifest
+C:\Users\jplaninic\Source\Repos\ZvonoYun\obj\Debug\ZvonoYun.application
